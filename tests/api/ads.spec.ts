@@ -1,3 +1,4 @@
+
 import { test, expect } from '../../fixture/api/api-request-fixture';
 import { ApiEndpoints, API_BASE_URL } from '../../enums/shop/apiEndpoints';
 import { AdListSchema } from '../../fixture/api/schemas/shop/adSchema';
